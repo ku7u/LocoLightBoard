@@ -8,3 +8,5 @@ One design expects to use only decoder powered outputs, with or without a curren
  
  Both designs allow for including current limiting resistors on the board. If such a resistor is already resident in the decoder 
  then a zero ohm resistor (or a simple wire jumper) must be soldered onto the board. The boards are designed to take 0805 size SMD components.
+ 
+ The gerber files can be submitted as is to a pcb fabrication source such as Oshpark or JLCPCB.
